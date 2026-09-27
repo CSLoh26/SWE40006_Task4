@@ -1,0 +1,10 @@
+=== Processing Report ===
+Input file : input.txt
+Lines      : 4
+Words      : 36
+Top 5 words:
+  docker: 4
+  containers: 2
+  and: 2
+  makes: 1
+  it: 1

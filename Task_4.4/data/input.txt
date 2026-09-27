@@ -1,0 +1,4 @@
+Docker makes it easy to package applications into containers.
+Containers are lightweight, portable, and consistent across environments.
+Docker Docker Docker is the industry standard for containerization.
+This sample file demonstrates volume mounts and container lifecycle logging.
